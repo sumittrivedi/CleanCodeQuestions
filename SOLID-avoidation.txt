@@ -1,0 +1,35 @@
+interface Printer{
+    void Print();
+}
+interface Fax{
+    void Fax();
+}
+interface Scanner{
+    void Scan();
+}
+
+
+class EconomicPrinter implements Printer
+{
+    public void Print()
+    {
+         // Printing code.
+    }
+}
+
+
+class AllInOnePrinter implements Printer, Fax, Scanner
+{
+    public void Print()
+    {
+         // Printing code.
+    }
+    public void Fax()
+    {
+         // Beep booop biiiiip.
+    }
+    public void Scan()
+    {
+         // Scanning code.
+    }
+}

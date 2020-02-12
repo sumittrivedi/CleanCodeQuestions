@@ -1,0 +1,8 @@
+As 'Good' and 'Bad' are relative,in the same way KISS is relative.
+If i am suffering from fever, it is bad for me but good for doctor.
+ 
+KISS is really in the eye of your team. You don't know what KISS is. 
+Your team does. Show your work to them and see if they think it's simple. 
+You can't judge your code whether it is simple or not because you already know how it works. 
+Find out how hard your code is for others to read.
+
