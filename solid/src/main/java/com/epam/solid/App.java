@@ -1,6 +1,6 @@
 /*
 We have two types of printer. Type 1 printer can print, fax and scan. Type 2 printer is economical which can only print.
-Here is code implementation by Rahul for both type of printer. Can you help Rahul by helping him to be a clean coder?
+Here is code implementation by Rahul for both type of printer. Can you help Rahul to be a clean coder?
 Which principal of clean code is Rahul voilating?
 */
 
